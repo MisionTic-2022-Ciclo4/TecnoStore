@@ -19,7 +19,7 @@ return (
           <a href="/Home" className="active">Inicio</a>
           <a href="/Pagina1">Nuestros productos</a>
           <a href="/Pagina3">Gaming Laptops</a>
-          <a href="/Pagina4">Sobre Nosotros</a>
+          <a href="/Pagina4">Clientes</a>
 
           <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>

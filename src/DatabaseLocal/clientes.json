@@ -1,0 +1,41 @@
+[
+
+    {
+"id": 1,
+"nombres": "Ana Maria ",
+"apellidos": "Gomez",
+"direccion": "Carrera 55 #66 13",
+"telefono": "34567122",
+"correo" : "anadd67@hotmail.com"
+},
+
+{
+    "id": 2,
+    "nombres": "Pedro",
+    "apellidos": "Gomez Quintero",
+    "direccion": "Carrera 55 #66 13",
+    "telefono": "34677234",
+    "correo": "pedro13@gmail.com"
+    },
+{
+    "id": 3,
+    "nombres": "Fernando",
+    "apellidos": "Salas Santofimio",
+    "direccion": "Carrera 30 #20 13",
+    "telefono": "34778543",
+    "correo": "f5667@hotmail.com"
+    },
+
+    {
+        "id": 4,
+        "nombres": "Juan Manuel",
+        "apellidos": "Herrera Lagos",
+        "direccion": "Carrera 23 #34 13",
+        "telefono": "346723",
+        "correo": "jm456-Lagos@hotmail.com"
+        }
+
+
+
+
+]
